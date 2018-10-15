@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" verbose="0" name="Failed suite [Gmail - Test Suit]">
+  <parameter name="selenium.port" value="4444"/>
+  <parameter name="selenium.host" value="localhost"/>
+  <parameter name="selenium.browser" value="chrome"/>
+  <parameter name="selenium.url" value="http://jqueryui.com"/>
+  <test verbose="0" name="Test Script :: 01(failed)">
+    <classes>
+      <class name="com.index.Index">
+        <methods>
+          <include name="Draggable"/>
+          <include name="fetchSuiteConfiguration"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.index.Index -->
+    </classes>
+  </test> <!-- Test Script :: 01(failed) -->
+</suite> <!-- Failed suite [Gmail - Test Suit] -->

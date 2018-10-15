@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[<strong> <h3 style="color:Blue"> To Verify the Draggle element is Click in the Home Page</br></br></h3> </strong>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step :1 .Open Url</br></br></strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[===>Home page is opened</br></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step :2 .Click on Draggable Link</br></br></strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step :3 .Click on Drag me around</br></br></strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[<strong> <h3 style="color:Blue"> To Verify the Draggle element is Click in the Home Page</br></br></h3> </strong>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step :4 .Click on Droppable</br></br></strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step :5 .Click on Drag_me_to_my_target</br></br></strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step :6 .Click on drop_here</br></br></strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[==>Dragged the element and Dropped Message should Display</br></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step :7 .Click on Resize option </br></br></strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step :8 .Resize the option </br></br></strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step :9 .Click on Selectable </br></br></strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step :10 .Click on item_select</br></br></strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[Item 2]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step :11 .Click on Seriazable </br></br></strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step :12 .Check that NumberOfItem_selected increases or decreases </br></br></strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step :13 .Click on Sortable </br></br></strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step :14 .Click on Item Sortable </br></br></strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step :15 .Click on Accordion option </br></br></strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step :16 .Click on Fill Space option inside Accordion option </br></br></strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step :17 .Click on Section_2 option inside Fill Space option inside Accordion option </br></br></strong></br>]]>
+    </line>
+  </reporter-output>
+  <suite name="JQuery - Test Suit" duration-ms="167508" started-at="2018-10-08T08:29:57Z" finished-at="2018-10-08T08:32:44Z">
+    <groups>
+    </groups>
+    <test name="Test Script :: 01" duration-ms="167508" started-at="2018-10-08T08:29:57Z" finished-at="2018-10-08T08:32:44Z">
+      <class name="com.index.Index">
+        <test-method status="PASS" signature="fetchSuiteConfiguration(org.testng.ITestContext)[pri:0, instance:com.index.Index@5f282abb]" name="fetchSuiteConfiguration" is-config="true" duration-ms="18" started-at="2018-10-08T13:59:57Z" finished-at="2018-10-08T13:59:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@415b0b49]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fetchSuiteConfiguration -->
+        <test-method status="PASS" signature="setUp(java.lang.reflect.Method, org.testng.ITestContext)[pri:0, instance:com.index.Index@5f282abb]" name="setUp" is-config="true" duration-ms="7768" started-at="2018-10-08T13:59:57Z" finished-at="2018-10-08T14:00:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.index.Index.Draggable()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@415b0b49]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Draggable()[pri:0, instance:com.index.Index@5f282abb]" name="Draggable" duration-ms="148486" started-at="2018-10-08T14:00:05Z" finished-at="2018-10-08T14:02:33Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<strong> <h3 style="color:Blue"> To Verify the Draggle element is Click in the Home Page</br></br></h3> </strong>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step :1 .Open Url</br></br></strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[===>Home page is opened</br></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step :2 .Click on Draggable Link</br></br></strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step :3 .Click on Drag me around</br></br></strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[<strong> <h3 style="color:Blue"> To Verify the Draggle element is Click in the Home Page</br></br></h3> </strong>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step :4 .Click on Droppable</br></br></strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step :5 .Click on Drag_me_to_my_target</br></br></strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step :6 .Click on drop_here</br></br></strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[==>Dragged the element and Dropped Message should Display</br></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step :7 .Click on Resize option </br></br></strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step :8 .Resize the option </br></br></strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step :9 .Click on Selectable </br></br></strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step :10 .Click on item_select</br></br></strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[Item 2]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step :11 .Click on Seriazable </br></br></strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step :12 .Check that NumberOfItem_selected increases or decreases </br></br></strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step :13 .Click on Sortable </br></br></strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step :14 .Click on Item Sortable </br></br></strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step :15 .Click on Accordion option </br></br></strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step :16 .Click on Fill Space option inside Accordion option </br></br></strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step :17 .Click on Section_2 option inside Fill Space option inside Accordion option </br></br></strong></br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Draggable -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.index.Index@5f282abb]" name="tearDown" is-config="true" duration-ms="11220" started-at="2018-10-08T14:02:33Z" finished-at="2018-10-08T14:02:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Draggable status=SUCCESS method=Index.Draggable()[pri:0, instance:com.index.Index@5f282abb] output=<strong> <h3 style="color:Blue"> To Verify the Draggle element is Click in the Home Page</br></br></h3> </strong>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.index.Index -->
+    </test> <!-- Test Script :: 01 -->
+  </suite> <!-- JQuery - Test Suit -->
+</testng-results>
